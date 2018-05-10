@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekaclient" />
         <module name="eurekaserve" />
+        <module name="feign" />
         <module name="service-ribbon" />
         <module name="springcloud" />
       </profile>
